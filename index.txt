@@ -1,0 +1,11 @@
+<html>
+<title> REFLECTION </title>
+<body style="background-image:url('properties.jpg');">
+<h1 align="center" style="color:#2b5737; border:5px ridge white; border-radius: 10px; margin:10px"> 1st Quarter REFLECTION </h1>
+ <h2> In this 1st quarter of ICT subject, I learned many new ways to code and program different things, like tables, lists, and forms. Different coding techniques were also discussed, which were XHTML and CSS. With this information, I was able to make this complex but simple code for my E-Portfolio in ICT 9. However, I only did this a few days before the due date, I was able to make a website that showcases each lesson in ICT discussed. This was a very difficult and long task, especially under pressure. That’s why I learned to lessen cramming projects and do this at an earlier time little by little.</h2>
+<h1 style="border-bottom: 7px ridge white;"></h1>
+<h1 align="center">
+Thank you for checking my portfolio! <br><video width="500px" height="500px" controls> <source src="C:\Users\santi\Desktop\GRADE 9\ICT_TLE 9\CODES\E-PORTFOLIO\cutecats.mov"> </video> </h1>
+
+</body>
+</html>
